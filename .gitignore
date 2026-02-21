@@ -4,3 +4,8 @@
 *.iml
 /build-steamrt
 /output-steamrt
+
+misc/arch-pkgbuild-pcsx2/parallel-gs
+misc/arch-pkgbuild-pcsx2/pcsx2
+misc/arch-pkgbuild-pcsx2/pcsx2_patches
+misc/arch-pkgbuild-pcsx2/pcsx2-parallel-gs-git-*
