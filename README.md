@@ -22,7 +22,7 @@ The GS dump format is used to make debugging and triaging issues easier, but tha
 - Auto-promotion to progressive scan for FFMD = 0
 - CRTC field blending (and ability to turn the blur off)
 - AA1 handling
-- Lots of mitigation for bad up-sampling behavior
+- Lots of mitigation for bad up-sampling behavior.
 
 Generally, I tend to prefer super-sampling over straight up-scaling on SD content.
 The mixing of SD UI elements and ultra-sharp polygon edges looks quite jarring to me.
